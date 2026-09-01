@@ -1,26 +1,36 @@
-# 💫 About Me:
-I'm currently Building Foretyx  enterprise AI security middleware <br>looking to collaborate on AI/ML projects, dev tools, and security-focused SaaS<br>I'm looking for help with enterprise GTM strategy & seed funding connections<br>I'm currently learning Cybersecurity (Kali, Burp Suite, Wireshark, Networking)<br>I'm a first-year engineering student co-founding an AI security startup <br>
+# Hey, I'm Rishi 👋
 
+Founder of [Agnio](https://rizzii.me) | Full Stack Developer Intern @ [CosmoDex](https://cosmodex.in) | CSE (Cyber Security) student
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishighoshofficial/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wasRizzii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coderrishi183@gmail.com) 
+I ship code, edit videos, and design thumbnails. I build things people actually use, then break them to see how they fail.
 
+```
+$ whoami
+> student who runs an agency, interns at a startup, and still finds time to freelance
+```
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+## What I'm working on
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rishiii183&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rishiii183&theme=noctis_minimus&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rishiii183&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **[Agnio](https://rizzii.me)** — my web dev agency, building sites and products for clients
+- **[Portfolio (rizzii.me)](https://rizzii.me)** — my personal site, dark navy design system, 98/100 SEO audit
+- **[Pentesting Agent in Sandbox](https://github.com/rishiii183/Pentesting-Agent_in-sandbox.git)** — an AI agent that runs pentesting tasks inside an isolated sandbox
+- **[Kolkata Startup Map](https://github.com/rishiii183/Kolkata-startup-map.git)** — an interactive map of Kolkata's startup ecosystem, inspired by bangalorestartupmap.com
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rishiii183&theme=default&no-frame=false&no-bg=false&margin-w=4)
+## Stack
+
+`React` `Next.js` `TypeScript` `Python` `FastAPI` `Docker` `Supabase` `GitHub Actions`
 
 ---
-[![](https://komarev.com/ghpvc/?username=rishiii183&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishiii183&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishiii183&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiii183&layout=compact&theme=dark&hide_border=true)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/in/rishighoshofficial)
+[![X](https://img.shields.io/badge/-X-000?style=flat&logo=x)](https://x.com/wasRizzii)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=todoist)](https://rizzii.me)
+[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail)](mailto:coderrishi183@gmail.com)
