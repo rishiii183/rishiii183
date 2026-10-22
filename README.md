@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Rishi 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6E56CF&height=200&section=header&text=Rishi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Agnio&descAlignY=58&descSize=20" />
 
-### Founder @ [Agnio](https://rizzii.me) · Full Stack Developer Intern @ [CosmoDex](https://cosmodex.in) · CSE (Cyber Security) Student
-
-I ship code, edit videos, and design thumbnails. I build things people actually use, then break them to see how they fail.
+<a href="https://rizzii.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Intern+%40+CosmoDex;CSE+(Cyber+Security)+Student;I+ship+code%2C+edit+videos%2C+design+thumbnails;I+build+things%2C+then+break+them" />
+</a>
 
 </div>
 
@@ -30,37 +30,28 @@ $ whoami
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+(keep your existing badge block here unchanged)
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 My Contribution Universe
 
-<p>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishiii183/rishiii183/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishiii183/rishiii183/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/rishiii183/rishiii183/output/github-snake.svg" />
+</picture>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishiii183&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiii183&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishiii183&theme=radical&hide_border=true&background=0d1117" />
 </p>
 
 <br>
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/rishighoshofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/wasRizzii"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://rizzii.me"><img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="mailto:coderrishi183@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+(keep your existing social badges here unchanged)
